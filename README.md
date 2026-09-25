@@ -11,10 +11,10 @@
 
 AI Product Engineer who turns requirements and business models into real products that people use. I work across the stack, from the interface to the agents and pipelines behind it.
 
-- 🌐 **AI-Powered Web Apps** - Full stack products with AI at the core
-- 🤖 **Agents** - Autonomous systems that plan, call tools, and act
-- 🔌 **LLM Integration** - Connecting models to apps, data, and APIs
-- ⚙️ **AI Workflows** - Automations that remove repetitive work
+- 🌐 **AI-Powered Web Apps**
+- 🤖 **Autonomous Agents**
+- 🔌 **LLM Integration**
+- ⚙️ **AI Workflows**
 
 ---
 
